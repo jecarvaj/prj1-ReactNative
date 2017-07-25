@@ -1,1 +1,1 @@
-Proyecto creado para la asignatura TAller de programacion de dispositivos moviles, UBB 2016-1. Aplicación para android hecha en React Native para conectarse con intranet y obtener el Perfil del alumno y su Informe curricular
+Proyecto creado para la asignatura TAller de programacion de dispositivos moviles, UBB 2016-1. Aplicación hecha en React Native para conectarse con intranet y obtener el Perfil del alumno y su Informe curricular
